@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Enes.</h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47w58f5brkwroul0qphzwek72ucsya5qson3xhkk84&rid=giphy.gif&ct=g" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -11,8 +11,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C#
 - 🌐 &nbsp; HTML | CSS | JavaScript | | Node.js | React | Laravel | Bootstrap
+- 💻 &nbsp; Python | C 
 - 🛢 &nbsp; MySQL | MongoDB | Xampp
 - 🔧 &nbsp; WebStorm | PyCharm | Visual Studio code | PhpStorm | Git
 - 🖥 &nbsp; Figma | Illustrator | Photoshop
