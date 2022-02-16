@@ -1,31 +1,33 @@
+<h2> Hey there! I'm Enes.</h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-# Hi, I'm Enes! 👋
+<h3> 👨🏻‍💻 About Me </h3>
 
+- 🔭 &nbsp; I’m currently learning Full Stack Web Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Engineering.
+- 💼 &nbsp; Software developer.
+- 🌱 &nbsp; Enthusiast in Data Science and Artificial Intelligence .
 
-## 🚀 About Me
-I am a senior Computer Engineering student at Karabuk University.
-Also I’ve graduated from Web design and Programming at Anadolu University in 2019.
-I have carried out several project on Web development,
-Mobile development and Game development.
-I know English and my native language is Turkish.
-I am look at positive and realistic aspect in life.
-I believe that I will contribute humanity in the best way by improving myself on field of computer engineering in the coming years.
+<h3>🛠 Tech Stack</h3>
 
+- 💻 &nbsp; Python | Java | C#
+- 🌐 &nbsp; HTML | CSS | JavaScript | | Node.js | React | Laravel | Bootstrap
+- 🛢 &nbsp; MySQL | MongoDB | Xampp
+- 🔧 &nbsp; WebStorm | PyCharm | Visual Studio code | PhpStorm | Git
+- 🖥 &nbsp; Figma | Illustrator | Photoshop
 
+<br>
 
-👩‍💻 I'm currently working on as a freelancer.
+</br>
 
-🧠 I'm currently improve skills Node.js.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eneserdennn&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
-📫 Reach me on  Linkedin.
+<h3> 🤝🏻 Connect with Me </h3>
 
-
-
-
-## 🛠 Skills
-Javascript, HTML, CSS, Node.js, React, Bootstrap, MongoDB, Laravel
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-erden/)
-
+<p align="center">
+&nbsp; <a href="https://twitter.com/eneserdendev/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://instagram.com/erdeneness/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/enes-erden/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:eneserdendev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
