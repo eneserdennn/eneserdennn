@@ -11,11 +11,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | | Node.js | React | Laravel | Bootstrap
-- 💻 &nbsp; Python | C 
-- 🛢 &nbsp; MySQL | MongoDB | Xampp
-- 🔧 &nbsp; WebStorm | PyCharm | VS Code | PhpStorm | Git
-- 🖥 &nbsp; Figma | Illustrator | Photoshop
+- 🌐 &nbsp; HTML | CSS | JavaScript | | Node.js | Laravel | 
+- 🛢 &nbsp; MySQL | MongoDB | NoSQL
+- 🔧 &nbsp; WebStorm | VS Code | PhpStorm | Git
+- 🖥 &nbsp; ReactJS | Bootstrap | Express.JS | Handlebars.js | Docker
 
 
 <h3> 🤝🏻 Connect with Me </h3>
