@@ -1,30 +1,29 @@
-<h2> Hey there! I'm Enes.</h2>
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47w58f5brkwroul0qphzwek72ucsya5qson3xhkk84&rid=giphy.gif&ct=g" width="500"/>
+# Hello, I'm Enes Erden! 👨‍💻
 
-<h3> 👨🏻‍💻 About Me </h3>
+## 🚀 Greetings from a Full Stack Developer!
 
-- 🔭 &nbsp; I’m currently learning Web Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Engineering.
-- 💼 &nbsp; Software developer.
-- 🌱 &nbsp; Enthusiast in Data Science and Artificial Intelligence .
+With a deep passion for technology, I create innovative web and mobile applications. As a developer specializing in JavaScript and TypeScript, I work with robust frontend and backend technologies. For frontend, I use ReactJS and NextJS, and for backend, I work with NodeJS, ExpressJS, and GraphQL. In mobile application development, I explore new solutions with React Native and Swift.
 
-<h3>🛠 Tech Stack</h3>
+### 💡 My Areas of Work
+- Developing user-focused, high-performance web applications.
+- Continuously learning and applying new knowledge in practical projects.
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | | Node.js | Laravel | 
-- 🛢 &nbsp; MySQL | MongoDB | NoSQL
-- 🔧 &nbsp; WebStorm | VS Code | PhpStorm | Git
-- 🖥 &nbsp; ReactJS | Bootstrap | Express.JS | Handlebars.js | Docker
+### 🌐 Social Networks and Contact
+- **LinkedIn:** [My Profile](https://linkedin.com/in/enes-erden)
+- **GitHub:** [eneserdennn](https://github.com/eneserdennn)
+- **Personal Website:** [eneserden.com](https://eneserden.com)
+- **Email:** [Email Me](mailto:admin@eneserden.com)
 
+### 🛠️ Technical Skills
+- **Frontend:** React.js, Next.js, Redux, TailwindCSS
+- **Backend:** Node.js, Express.js, NestJS, GraphQL
+- **Mobile Development:** React Native, Swift
+- **Programming Languages:** JavaScript, TypeScript, C, C#, Python
 
-<h3> 🤝🏻 Connect with Me </h3>
+### 📚 Sharing Knowledge
+- Sharing my knowledge through blog posts and open source projects.
+- Constantly learning new technologies and implementing them in my projects.
 
-
-<a href="https://twitter.com/eneserdendev/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-<a href="https://instagram.com/erdeneness/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-<a href="https://www.linkedin.com/in/enes-erden/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-<a href="mailto:eneserdendev@gmail.com" target="_blank" rel="noopener noreferrer">
-<img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+### 🎨 Hobbies and Interests
+- Exploring new technologies and software trends
+- Mobile application development and user experience design
